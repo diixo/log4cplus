@@ -1,4 +1,3 @@
-% log4cplus README
 
 Short Description
 =================
